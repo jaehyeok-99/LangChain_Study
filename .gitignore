@@ -1,0 +1,12 @@
+# Python 가상환경
+venv/
+
+# 환경 변수 파일
+.env
+
+# 데이터베이스 및 임시 파일
+news_chroma_db/
+news_faiss_db/
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
