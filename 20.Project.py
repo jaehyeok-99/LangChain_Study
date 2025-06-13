@@ -1,7 +1,6 @@
 # 인공지능 PDF Q&A 챗봇 프로젝트
 
 #from dotenv import load_dotenv #api 키 .env으로 관리할경우
-#load_dotenv()
 
 import gradio as gr
 #from langchain_openai import ChatOpenAI
